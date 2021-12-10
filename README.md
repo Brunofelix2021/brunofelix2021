@@ -1,6 +1,6 @@
 ## Oiii! Eu sou o Bruno Felix👋
 
-Hoje possuo experiência com servidores , redes, suporte técnico e infraestrutura.
+Possuo experiência com servidores, redes, suporte técnico e infraestrutura.
 
 Atualmente estudando e me aprimorando em:
 - Backend: Java para programação e criação de API's REST + Spring Boot;
