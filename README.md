@@ -2,7 +2,7 @@
 
 Possuo experiência com servidores, redes, suporte técnico e infraestrutura.
 
-Atualmente estudando e me aprimorando em:
+Atualmente, estudando e me aprimorando em:
 - Backend: Java para programação e criação de API's REST + Spring Boot;
 - Frontend: HTML5, CSS3, JavaScript, TypeScript, Bootstrap, React;
 - Banco de Dados: Introdução à bases de dados relacionais, Structured Query Language (SQL);
